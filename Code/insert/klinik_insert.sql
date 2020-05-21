@@ -1,0 +1,12 @@
+INSERT INTO klinik(id_klinik,nama_klinik) VALUES ('KL001','Dokter Ahli Kardiolog');
+INSERT INTO klinik(id_klinik,nama_klinik) VALUES ('KL002','Dokter Ahli Pulmonologi');
+INSERT INTO klinik(id_klinik,nama_klinik) VALUES ('KL003','Dokter Ahli Endokrinolog');
+INSERT INTO klinik(id_klinik,nama_klinik) VALUES ('KL004','Dokter Anak');
+INSERT INTO klinik(id_klinik,nama_klinik) VALUES ('KL005','Dokter Spesialis Kesehatan Gigi dan Mulut');
+INSERT INTO klinik(id_klinik,nama_klinik) VALUES ('KL006','Dokter Spesialis THT');
+INSERT INTO klinik(id_klinik,nama_klinik) VALUES ('KL007','Dokter Spesialis Mata');
+INSERT INTO klinik(id_klinik,nama_klinik) VALUES ('KL008','Dokter Kulit dan Kelamin');
+INSERT INTO klinik(id_klinik,nama_klinik) VALUES ('KL009','Dokter Spesialis Kandungan');
+INSERT INTO klinik(id_klinik,nama_klinik) VALUES ('KL010','Dokter Spesialis Tulang');
+INSERT INTO klinik(id_klinik,nama_klinik) VALUES ('KL011','Dokter Spesialis Saraf');
+INSERT INTO klinik(id_klinik,nama_klinik) VALUES ('KL012','Psikiater');
